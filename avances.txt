@@ -2,4 +2,6 @@ Estoy aprendiendo a programar en html y css para tener un trabajo a medio tiempo
 
 Ahora estoy en la seccion de GitHub y GitBash
 
+Mi proximo paso sera aprender Responsive Design
+
 Espero aprender bastante!
